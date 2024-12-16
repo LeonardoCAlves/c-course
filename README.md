@@ -51,16 +51,19 @@ Aqui está o passo a passo simples para você rodar seu primeiro projeto:
 <div align="center">
     Desenvolvido por <strong>Leonardo Alves</strong> |  
     <span style="vertical-align: middle;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20"> 
-        <a href="https://www.linkedin.com/in/leonardoalvesprog/" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/leonardoalvesprog/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20">
+        </a>
     </span> 
     <span style="vertical-align: middle;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="20" height="20"> 
-        <a href="https://www.instagram.com/ebony__alves/" target="_blank"></a>
+        <a href="https://www.instagram.com/ebony__alves/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="20" height="20">
+        </a>
     </span> 
     <span style="vertical-align: middle;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" width="20" height="20"> 
-        <a href="https://api.whatsapp.com/send?phone=5511979714423&text=&source=&data=&app_absent=" target="_blank"></a>
+        <a href="https://api.whatsapp.com/send?phone=5511979714423&text=&source=&data=&app_absent=" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" width="20" height="20">
+        </a>
     </span>
 </div>
 
