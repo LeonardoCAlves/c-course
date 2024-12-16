@@ -29,11 +29,10 @@ Antes de sair escrevendo `Console.WriteLine("Hello, World!");`, você precisa de
    Escolha a versão mais recente do .NET SDK.  
 
 2. **Um bom editor de código:**  
-   - 🟣 **Visual Studio Code** (leve e poderoso)  
-   - 🔵 **Visual Studio** (mais completo, recomendado para projetos maiores)  
+   - 🟣 **Visual Studio Code** (leve e poderoso)   
 
-3. **Pacotes de café ou chá:** ☕  
-   Porque todos sabemos que programadores não funcionam sem eles.
+3. **Pacotes de café, chá ou energético:** ☕  
+   Porque todos sabemos que programadores não funcionam sem eles, no meu caso... apenas energéticos 😁.
 
 ---
 
@@ -53,15 +52,15 @@ Aqui está o passo a passo simples para você rodar seu primeiro projeto:
     Desenvolvido por <strong>Leonardo Alves</strong> |  
     <span style="vertical-align: middle;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20"> 
-        <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/leonardoalvesprog/" target="_blank"></a>
     </span> 
     <span style="vertical-align: middle;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="20" height="20"> 
-        <a href="https://www.instagram.com/seu-instagram" target="_blank"></a>
+        <a href="https://www.instagram.com/ebony__alves/" target="_blank"></a>
     </span> 
     <span style="vertical-align: middle;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" width="20" height="20"> 
-        <a href="https://wa.me/seu-numero" target="_blank"></a>
+        <a href="https://api.whatsapp.com/send?phone=5511979714423&text=&source=&data=&app_absent=" target="_blank"></a>
     </span>
 </div>
 
